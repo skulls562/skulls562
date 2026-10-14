@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Jerónimo Montoya — Software & AI builder" width="100%" />
+  <img src="./assets/banner.svg" alt="Jerónimo Montoya — AI-powered websites & automations" width="100%" />
 </p>
 
 <p align="center">
