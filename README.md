@@ -29,6 +29,7 @@ Open to freelance work · fixed scope and price · US Eastern hours (UTC-5). Wri
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [n8n workflows](https://github.com/skulls562/n8n-workflows) | Ready-to-import n8n automations, starting with an AI email digest that runs on a local LLM and reports to Telegram. | n8n, Ollama, Telegram |
 | [Plata](https://github.com/skulls562/plata-demo) | Privacy-first personal finance dashboard with deterministic recommendations and synthetic demo data. | Next.js, TypeScript, SQLite, Vitest |
 | [¿Llueve?](https://github.com/skulls562/llueve-siata) | Makes live rainfall and forecast data for the Aburrá Valley easier to understand. | Node.js, JavaScript, Leaflet |
 | Risk-plan tracker · Medellín City Hall (private) | Each public entity reports progress on its risk-plan indicators through its own link; district dashboard, search and Excel export in the official format. | Next.js, Neon Postgres, Vercel |
